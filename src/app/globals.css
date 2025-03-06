@@ -1,0 +1,39 @@
+@import "tailwindcss";
+:root {
+  --foreground: #EEEEEE;
+  --background: #111111;
+  --secondary:#B4B4B4;
+  --logo:#9b9999;
+  --work-bg:#191919;
+}
+body {
+  margin-top: 60px;
+  background-color: var(--background);
+  color: var(--foreground);
+  font-family:var(--font-syne);
+  overflow-x: hidden !important;
+ }
+ @keyframes fadeMove {
+  0% {
+    opacity: 0;
+    transform: translate(-100%, -50%) scale(0.9);
+  }
+  50% {
+    opacity: 0.2;
+    transform: translate(0%, -50%) scale(1);
+  }
+  100% {
+    opacity: 0;
+    transform: translate(100%, -50%) scale(1.1);
+  }
+}
+
+.animate-fadeMove {
+  animation: fadeMove 8s ease-in-out infinite alternate;
+}
+
+
+.animate-fadeMove {
+  animation: fadeMove 6s ease-in-out infinite alternate;
+}
+
