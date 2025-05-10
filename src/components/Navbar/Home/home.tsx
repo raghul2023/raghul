@@ -7,8 +7,7 @@ const Info = () =>{
         <div className="max-w-[650px] flex flex-col">
           <h1 className="md:text-5xl p-3 text-2xl font-bold text-start uppercase">Raghul Krishna</h1>
           <p className="p-3 tracking-wider leading-8 text-[var(--secondary)] text-md md:text-lg">
-          Detail-oriented finance enthusiast with a strong background in financial analysis and research. Experienced in financial modeling and market research, helping improve decision-making and streamline processes. Looking for a role in investment banking or asset management to apply analytical skills and contribute to strategic financial initiatives.
-          </p>
+           Detail-oriented finance enthusiast with a strong background in financial analysis, valuation, and strategic research. Experienced in financial modeling and market analysis, driving data-driven decision-making and optimizing financial strategies. Seeking a front-office role in Investment Banking to leverage analytical expertise and contribute to high-impact deal execution, M&A transactions, and capital-raising initiatives.          </p>
           <div className="h-[1px] mt-4 md:mt-8 w-full bg-[#1e1e1e]"></div>
           <h2 className="md:mt-8 mt-3 text-xl md:text-2xl p-3">Work Experience</h2>
           
