@@ -12,8 +12,8 @@ const Publications = () => {
     },
     {
       title: 'Strategic role of investment banks in mergers & acquisitions',
-      description: 'Publishing soon in IJSRT.',
-      link: '/publication',
+      description: 'Published in IJSART, this project explored the strategic influence of technology firms in M&A transactions. It assessed the accuracy of valuations and the role of tech in enhancing deal structuring and negotiation processes. Demonstrated strong analytical, research, and financial modeling skills with a focus on real-world M&A case analysis..',
+      link: 'https://www.ijsart.com/strategic-role-of-investment-banks-in-mergers--acquisitions-102951',
     },
   ]);
 
